@@ -1,0 +1,1 @@
+This is my project to learning asp.net core
